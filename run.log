@@ -1,0 +1,5 @@
+2019-04-12 10:37:12,930 logging_test.py [line:10] DEBUG debug info
+2019-04-12 10:37:12,930 logging_test.py [line:11] INFO hello world
+2019-04-12 10:37:12,930 logging_test.py [line:12] WARNING warming info
+2019-04-12 10:37:12,930 logging_test.py [line:13] ERROR error info
+2019-04-12 10:37:12,930 logging_test.py [line:14] CRITICAL critical info
